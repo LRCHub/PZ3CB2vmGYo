@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "赤春花",
+  "base_artist": "sumika",
+  "createdAt": "2026-03-10T10:03:45.773439Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "赤春花",
+      "artist": "sumika, 幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_赤春花_sumika,_幾田りら.txt"
+    }
+  ]
+}
